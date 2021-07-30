@@ -1,0 +1,10 @@
+var firebaseConfig = {
+    apiKey: "AIzaSyBGYmKGsXipz5xuBTZJ6pmKJNYnreeTETY",
+    authDomain: "drinkdeliveryapp.firebaseapp.com",
+    projectId: "drinkdeliveryapp",
+    storageBucket: "drinkdeliveryapp.appspot.com",
+    messagingSenderId: "633441708842",
+    appId: "1:633441708842:web:1f78ce71b8ee49c07a0c53"
+  };
+  // Initialize Firebase
+  firebase.initializeApp(firebaseConfig);
